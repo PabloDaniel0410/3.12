@@ -1,0 +1,9 @@
+span.disco{
+   list-style-type: circle; 
+}
+ol.A{
+    list-style-type:lower-latin;
+}
+ol.postre{
+    list-style-type: circle;
+}
