@@ -7,3 +7,6 @@ ol.A{
 ol.postre{
     list-style-type: circle;
 }
+ol.I{
+  list-style-type: upper-roman;  
+}
